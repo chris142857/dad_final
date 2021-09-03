@@ -31,7 +31,7 @@ mlflow ui
 
 ## Experiment script summary
 
-The following table summarises the script for running the experiment in this repository.
+The following table summarises the scripts for running the experiments in this repository.
 
 | Likelihood  | Network     | Training                                          | EIG evaluation                         | Image generation          |
 | :---------- | :---------- | :------------------------------------------------ | :------------------------------------- | :------------------------ |
@@ -41,7 +41,6 @@ The following table summarises the script for running the experiment in this rep
 
 ## Experiment 1: Face Location Finding with Continuous Likelihood Response
 
-To train a DAD network for solving the face location problem for a continuous likelihood, execute one of following two commands.
 
 The following command will train the model with:
 1. A recurrent neural network architecture (GRU)
@@ -124,7 +123,7 @@ python3 face_finding_evaleig_continuous.py \
     --experiment-id <ID> \  # the experiment id of your model
 ```
 
-The EIG results will be printed after the script finished running and will be logged in the mlflow ui.
+The EIG results will be printed after the script has finished running and will be logged in the mlflow ui.
 
 ## Experiment 2: Face Location with Categorical Response
 
@@ -176,7 +175,7 @@ python3 face_finding_evaleig_categorical \
     --experiment-id <ID> \  # the experiment id of your model
 ```
 
-The EIG results will be printed after the script finished running and will be logged in the mlflow ui.
+The EIG results will be printed after the script has finished running and will be logged in the mlflow ui.
 
 ## Cite
 
