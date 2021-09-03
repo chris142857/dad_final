@@ -1,7 +1,7 @@
 
 """
 # @Description:
-    Generate image sequences for <continuous & categorical> face finding tasks.
+    Generate image sequences for (continuous & categorical) face finding tasks.
 """
 import os
 import math

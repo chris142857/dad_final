@@ -1,6 +1,6 @@
-# -*- coding: utf-8 -*-
+
 """
-Encoder emitter networks for RNN
+The Encoder emitter networks for RNN
 """
 
 import torch

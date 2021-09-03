@@ -1,5 +1,4 @@
 """
-
 # @Description:
 Plot utilities for face finding applications
 """

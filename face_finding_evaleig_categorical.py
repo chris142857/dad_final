@@ -1,7 +1,7 @@
 
 """
 # @Description:
-    Calculate the Expected Information Gain (EIG) for <categorical> face finding tasks.
+    Calculate the Expected Information Gain (EIG) for categorical face finding tasks.
 """
 import os
 import argparse

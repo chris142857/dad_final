@@ -1,7 +1,7 @@
 
 """
 # @Description:
-    Train DAD feedforward neural network model for face finding with continuous likelihood.
+    Script: Train DAD feedforward neural network model for face finding with continuous likelihood.
 """
 import os
 import math

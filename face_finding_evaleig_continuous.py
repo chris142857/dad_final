@@ -1,7 +1,7 @@
 
 """
 # @Description:
-    Calculate the Expected Information Gain (EIG) for <continuous> face finding tasks.
+    Calculate the Expected Information Gain (EIG) for continuous face finding tasks.
 """
 
 import os

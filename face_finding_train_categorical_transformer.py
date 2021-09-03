@@ -1,6 +1,6 @@
 """
 # @Description:
-    Train DAD network for RAG categorical face finding.
+    Script: Train DAD network for RAG categorical face finding.
 """
 import os
 import pickle

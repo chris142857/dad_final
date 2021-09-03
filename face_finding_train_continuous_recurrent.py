@@ -1,7 +1,7 @@
 
 """
 # @Description:
-    Train the recurrent neural network model for face finding tasks with continuous likelihood.
+    Script: Train the recurrent neural network model for face finding tasks with continuous likelihood.
 """
 import argparse
 
