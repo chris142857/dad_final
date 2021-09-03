@@ -1,12 +1,7 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
+
 """
-# @Time    : 28/07/2021
-# @Author  : Fangliang Bai
-# @File    : ploter.py
-# @Software: PyCharm
 # @Description:
-    Train the recurrent neural network model for <continuous> face finding tasks.
+    Train the recurrent neural network model for face finding tasks with continuous likelihood.
 """
 import argparse
 

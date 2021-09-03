@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jul 27 11:22:52 2021
 
-@author: Yan Wang
+"""
+Gated recurrent unit emitter and encoder network classes
 """
 
 import torch

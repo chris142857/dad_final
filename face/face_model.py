@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Aug 16 09:51:48 2021
-
-@author: Yan Wang
 """
 
 # PCA for faces

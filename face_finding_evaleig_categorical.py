@@ -1,10 +1,5 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
+
 """
-# @Time    : 28/07/2021
-# @Author  : Fangliang Bai
-# @File    : ploter.py
-# @Software: PyCharm
 # @Description:
     Calculate the Expected Information Gain (EIG) for <categorical> face finding tasks.
 """

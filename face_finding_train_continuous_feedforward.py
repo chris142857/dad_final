@@ -1,12 +1,7 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
+
 """
-# @Time    : 28/07/2021
-# @Author  : Fangliang Bai
-# @File    : ploter.py
-# @Software: PyCharm
 # @Description:
-    Train the feedforward neural network model for <continuous> face finding tasks.
+    Train DAD feedforward neural network model for face finding with continuous likelihood.
 """
 import os
 import math

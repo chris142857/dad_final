@@ -1,3 +1,7 @@
+"""
+# @Description:
+    Train DAD network for RAG categorical face finding.
+"""
 import os
 import pickle
 import argparse
